@@ -41,3 +41,8 @@ img{
 .carousel-inner img {
     margin: auto;
   }
+
+#taust  {
+    background-color: lightgray;
+    border-radius: 1%;
+}
